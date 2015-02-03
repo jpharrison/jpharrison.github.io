@@ -1,0 +1,42 @@
+h1{
+    font-family: helvetica, arial, sans-serif;
+    font-size: 50px;
+    color: #1f96ff;
+    padding-left: 30px;
+    padding-top: 25px;
+    letter-spacing: 2.5px;
+}
+
+
+
+img{
+    padding-left: 30px;
+}
+
+a{
+    transition: color 1s, background-color 1s, letter-spacing 1s;
+    color: inherit;
+    font-style: normal;
+    text-decoration: none;
+}
+
+
+a:hover{
+    transition: color .5s, letter-spacing .5s;
+    color: aqua; 
+    letter-spacing: 1.5px;
+}
+
+h2{
+    text-align: left;
+    font-family: impact;
+    font-size: 30px;
+    padding-left: 50px;
+}
+
+p{
+    font-family: sans-serif;
+    line-height: 1.5;
+    width: 800px;
+    padding-left: 50px;
+}
