@@ -1,9 +1,13 @@
+body{
+    width: 90%;
+    margin: 0 auto 0 auto;
+}
+
 h1{
     font-family: Montserrat, helvetica, arial, sans-serif;
     font-size: 50px;
+    text-align: center;
     color: #1f96ff;
-    padding-left: 30px;
-    padding-top: 25px;
     letter-spacing: 2.5px;
 }
 
@@ -11,7 +15,7 @@ h1{
 
 
 img{
-    padding-left: 30px;
+    margin: 0 auto 0 auto;
 }
 
 a{
@@ -29,15 +33,13 @@ a:hover{
 }
 
 h2{
-    text-align: left;
-    font-family: impact;
-    font-size: 30px;
-    padding-left: 50px;
+    text-align: center;
+    font-family: Raleway, impact;
+    margin: 0 auto 0 auto;
 }
 
 p{
     font-family: sans-serif;
     line-height: 1.5;
     width: 800px;
-    padding-left: 50px;
 }
